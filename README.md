@@ -3,7 +3,7 @@
 Welcome to my Data Analytics Portfolio, a collection of real-world projects demonstrating my skills in Power BI, data modeling, DAX, Power Query, exploratory analysis, and data visualization.
 This portfolio reflects my ability to transform raw data into meaningful insights and support data-driven decision-making.
 
-🔍 What This Portfolio Demonstrates
+# 🔍 What This Portfolio Demonstrates
 
 • Collect and clean data from multiple sources
 • Model data using star-schema design and relational structures
