@@ -4,7 +4,7 @@
 This repository contains my Power BI Capstone Project, a two-page interactive report analyzing sales and profitability for Tailwind Traders. It demonstrates my ability to transform raw data into actionable business insights.
 
 # 📁 Report Overview
-Sales Overview Page
+# Sales Overview Page
 
 Stacked Bar & Column Charts: Loyalty Points by Country, Quantity Sold by Product
 
@@ -16,7 +16,7 @@ Interactive Slicers: Filter by Country
 
 Insights: Top-performing countries and products, sales trends, and key inventory metrics.
 
-Profit Overview Page
+# Profit Overview Page
 
 Stacked Bar & Area Charts: Net Revenue by Product, Yearly Profit Margin Over Time
 
@@ -44,13 +44,13 @@ Interactive Reporting: KPI cards, slicers, trend analysis
 
 Business Insights: Identifying top products, countries, and profit trends
 
+# 🗂 Repository Contents
 
 | File                                       | Description                                                                           |
 | ------------------------------------------ | ------------------------------------------------------------------------------------- |
 | `TailwindTraders_Sales_Profit_Report.pbix` | Multi-page Power BI report (Sales + Profit)                                           |
 | `Data/`                                    | Excel datasets used:`Tailwind-Traders-Sales.xlsx`, `countries.xlsx`, `Purchases.xlsx` |
 | `Images/`                                  | Screenshots: Sales page, Profit page, Data Model                                      |
-| `Report.pdf`                               | Optional PDF export of the report                                                     |
 | `README.md`                                | Project documentation                                                                 |
 
 # 🛠 Tools & Technologies
