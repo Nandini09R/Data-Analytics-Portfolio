@@ -3,7 +3,9 @@
 
 This repository contains my Power BI Capstone Project, a two-page interactive report analyzing sales and profitability for Tailwind Traders. It demonstrates my ability to transform raw data into actionable business insights.
 
+
 # 📁 Report Overview
+
 # Sales Overview Page
 
 Stacked Bar & Column Charts: Loyalty Points by Country, Quantity Sold by Product
@@ -15,6 +17,7 @@ KPI Cards: Stock, Quantity Purchased, Median Sales
 Interactive Slicers: Filter by Country
 
 Insights: Top-performing countries and products, sales trends, and key inventory metrics.
+
 
 # Profit Overview Page
 
@@ -28,21 +31,24 @@ Interactive Slicer: Filter by Date
 
 Insights: Revenue and profit trends, top-performing products, and margin analysis.
 
+
 # 🗂 Data Model
 
 The report uses a snowflake-style schema
 
+
 # 🎯 Skills Demonstrated
 
-Data Modeling: Snowflake schema linking multiple tables
+**Data Modeling:** Snowflake schema linking multiple tables
 
-DAX & Metrics: Median Sales, Net Revenue, YTD Profit, Profit Margins
+**DAX & Metrics:** Median Sales, Net Revenue, YTD Profit, Profit Margins
 
-Visualizations: Stacked bar & column charts, pie & donut charts, line & area charts
+**Visualizations:** Stacked bar & column charts, pie & donut charts, line & area charts
 
-Interactive Reporting: KPI cards, slicers, trend analysis
+**Interactive Reporting:** KPI cards, slicers, trend analysis
 
-Business Insights: Identifying top products, countries, and profit trends
+**Business Insights:** Identifying top products, countries, and profit trends
+
 
 # 🗂 Repository Contents
 
@@ -53,16 +59,17 @@ Business Insights: Identifying top products, countries, and profit trends
 | `Images/`                                  | Screenshots: Sales page, Profit page, Data Model                                      |
 | `README.md`                                | Project documentation                                                                 |
 
+
 # 🛠 Tools & Technologies
 
-Microsoft Power BI Desktop – creating reports, visuals, dashboards
+**Microsoft Power BI Desktop –** creating reports, visuals, dashboards
 
-Power Query – data cleaning, transformation, and shaping
+**Power Query –** data cleaning, transformation, and shaping
 
-DAX (Data Analysis Expressions) – measures, KPIs, and calculations
+**DAX (Data Analysis Expressions) –** measures, KPIs, and calculations
 
-Excel – data source preparation (.xlsx datasets)
+**Excel –** data source preparation (.xlsx datasets)
 
-GitHub – version control and portfolio hosting
+**GitHub –** version control and portfolio hosting
 
-PDF Export – optional for report sharing
+
